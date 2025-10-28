@@ -39,9 +39,8 @@ My part of the development focused on:
 
 - Spawners of oil flasks and obstacles, aplying movement to them and creating the scrolling sensation.
 - Collision detection system, making the player pick up the flasks or moved by the obstacles and getting him closer to the monter.
-- AI behavior, making the monster follow the players position
+- AI behavior, making the monster follow the players position.
+- Input system to translate all the players input into real gameplay actions
 - Composing and implementing the music, loading it into the game's memory.
 
 ---
-3. Run the following command:
-
