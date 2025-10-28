@@ -20,7 +20,7 @@ If the light goes out… darkness wins.
 
 ## 🧩 Project Structure
 
-The project is split into several `.asm` modules to keep the code organized and maintainable:
+The project is split into several `.s` files to keep the code organized and maintainable:
 
 | File | Description |
 |------|--------------|
