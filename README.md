@@ -24,11 +24,11 @@ The project is split into several `.asm` modules to keep the code organized and 
 
 | File | Description |
 |------|--------------|
-| [`main.s`](.src/main.s) | Entry point of the game. Initializes memory, graphics, and the main loop. |
-| [`ia_manager.s`](.src/ia_manager.s) | Controls the monster’s behavior and chasing logic. |
-| [`game_manager.s`](.src/game_manager.s) | Initializes all entities, with its components and controls the game flow |
-| [`physics.s`](.src/physics.s) | Controls the positions of the entities involved in the game |
-| [`input.s`](.src/input.s) | Reads keyboard input and translates it into in-game actions. |
+| [`main.s`](src/main.s) | Entry point of the game. Initializes memory, graphics, and the main loop. |
+| [`ia_manager.s`](src/ia_manager.s) | Controls the monster’s behavior and chasing logic. |
+| [`game_manager.s`](src/game_manager.s) | Initializes all entities, with its components and controls the game flow |
+| [`physics.s`](src/physics.s) | Controls the positions of the entities involved in the game |
+| [`input.s`](src/input.s) | Reads keyboard input and translates it into in-game actions. |
 
 ---
 
